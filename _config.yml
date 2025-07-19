@@ -17,10 +17,10 @@
 remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
 locale: en-US
-title: "Candlegraph"
+title: "My Awesome Site"
 description: "It really is the best."
 baseurl: # the subpath of your site, e.g. "/blog"
-url: "https://terryology.github.io/candlegraph"
+url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
@@ -90,10 +90,10 @@ defaults:
       share: true
 
 # Site Author
-author: Terry
-  name: Terry
+author:
+  name:
   picture:
-  email: terry@candlegraph.com
+  email:
   twitter:
   links:
     - title:
