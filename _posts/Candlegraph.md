@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Candlegraph"
 output: html_document
 ---
