@@ -1,6 +1,6 @@
 ---
+layout: post
 title: "Candlegraph"
-output: html_document
 ---
 
 First, we'll load in our libraries. I'm using `library(here)` on the advice of Jenny Bryan from her [Project-oriented workflow](https://www.tidyverse.org/blog/2017/12/workflow-vs-script/) post on Tidyverse. This is just to organize my project into a folder in order to keep it self-contained and portable.
